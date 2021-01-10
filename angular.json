@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "PrimeiraAppAngular"
+  "defaultProject": "PrimeiraAppAngular",
+  "cli": {
+    "analytics": "30acbff8-44d1-4e10-9c83-759948f3f23e"
+  }
 }
